@@ -1,0 +1,10 @@
+Nomic war
+
+implementation of war
+-cards
+-divided up randomly
+-winner takes set
+-shuffled when use up cards in deck
+
+
+

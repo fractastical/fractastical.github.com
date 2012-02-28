@@ -1,0 +1,70 @@
+Edu Lightning
+
+LOGO : “EDU” plus lightning bolt
+
+Plan :
+
+	Social network organized around attainment
+	A number of courses (mostly from other places) :
+
+		- Each course has videos (links, e.g. khan academy)
+		- Each course involves a bunch of financial committed people (allow for financial hardship)
+		- Allow people to design their own courses  (credentials)
+		- Each course transpires over a number of weeks (maybe 8? with some schedule)
+		- Require a certain minimum number of people
+		- Each course allows students to see how other students are progressing (watching videos, completing assignments) 
+- Each course also has assignments that must be submitted 		- Allow for teachers / coaches to grade and or certify
+		- Each course has typical text based interactions (fora, live chat)
+		- Each course also allows for periodic meetups
+		- Unique “Grading” system
+				- assignments completed on time
+				- quality of assignments
+				- lectures watched 
+				- participation (maintain 2 posts per week on boards, include something about length) 
+				- extra credit 
+		- Some sort of certification is issued at the end (for lightening approved members)
+		- You get your money back (based on “grade”)
+		- Can pay for printed copy of certificate
+
+Examples:
+
+	- Khan academy
+	
+General considerations:
+
+	“Cute” but minimalistic theming. Appeal to a broad audience
+	Don’t use money as primary motivator – hid financial calculations until the end.
+	Facilitate collective energy / positive group dynamics
+	Encourage enthusiasts
+	Make platform as flexible as possible
+	Where finances are involved, take cut rather than flat fees
+	Don’t rely on or solicit existing brick and mortar institutions (they are useless)
+	Ensure quality content (difficult!)	
+
+Due Diligence:
+
+Other online universities – what are they doing well? What not so well?
+
+Khan
+	- math focused
+	- not social
+	- otherwise awesome
+
+udemy.com 
+	-selling videos?
+
+teachstreet.com
+	mixed online – bricks
+	unclear content quality
+
+curiousreef.com (was crunchcourse.com)
+-	variable content quality
+-	viewable submissions
+	
+Technology:
+
+	Unknown
+
+Payoff:
+
+Passionate Users  -> ?  -> Money

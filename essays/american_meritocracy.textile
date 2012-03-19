@@ -1,0 +1,80 @@
+
+Preliminary Plans for a new American Meritocracy
+
+Not the first essay on this theme, nor the last.  This time sparked by a quotation from  Sridhar Vembu the CEO/founder of Zoho comparing the Indian educational system with the US (he got a PhD from Princeton), and the problems with credentials:
+
+Ultimately, an impressive college credential from a good college serves to a prospective employer as an extended IQ test, a sort of legal signaling device. In the US, colleges are allowed to base their recruitment on SAT scores (essentially an IQ test), but employers could get in legal trouble if they were to conduct any such tests. So knowing that a college is rigorous in its admission standards is a way to signal prospective employers that the graduates from that college are already vetted. I believe that college credentials as a requirement for most jobs would vanish, if employers were allowed to perform the tests that colleges routinely require of their students.
+http://blogs.zoho.com/general/wsj-india-graduates-millions-but-too-few-are-fit-to-hire-yes-but
+
+However, others, including Mark Suster (citation), have said that GPA is a very good signal as to the potential success of an entrepreneur, if not necessarily an employee. Presumably one wants to test on more than intelligence, one might also wish to test on execution, persistence, etc.  which the grade, particularly if it is not in the humanities (where standards are a bit more vague) means something significant. 
+
+This is, not, of course, indicating that the person has any particular competence in any area that would be useful in a corporate environment – although presumably someone with a non-failing GPA and a humanities degree from an elite college can also write English of a decent quality, can perform under pressure and likely has also attained some degree of social competence. 
+
+What about intelligence?  I would distinguish between the following categories:
+
+(1) Long-term Memory
+Memory is a gateway into abstract reasoning. Most of the following categories are somewhat dependent on a good memory. Bonus points for rapid recall.
+
+(2) Active memory
+The ability to hold many things in your mind at the same time and consider each with relation to the other. Cultivated most especially in mathematical proofs, philosophy/logic, and computer science (programming). Bonus points for spatial element. 
+
+(3) Analytical Skill
+Parsing large amounts of data and arranging it according to some intelligible taxonomy. Bonus points for figuring out a taxonomy that matches the data instead of applying someone else’s.
+
+(4) Logic
+The ability to perform basic mathematic calculations rapidly with a low margin of error. Also applies to figuring out whether basic propositions are consistent with each other. Bonus points for propositions across discrete logical systems.
+
+(5) Insight
+Intuition that leads to new ideas not present in what one is reading.  Bonus points for creating new systems.
+
+
+Intelligence facilitates the solving of complex problems and the acquisition of new skills. However, there is some variability in the ability of someone to solve very complex problems and the speed at which someone can solve problems of medium complexity. Basically, if your training emphasizes speed, it will not emphasize complexity. If it emphasizes complexity, it will probably not emphasize speed.  Insight is the “X Factor.” rare but extremely important where found.
+
+As should be obvious, a standard test (e.g. SAT) can really only test (1) and (4). Very few tests emphasize (2), but it is crucial for computer science, and a basic level of competence can be adequately tested with simple problems like Fizzbuzz.  (3) is important for many tasks, but the limited timeframe of standard tests is not adequate, and grades are probably a better proxy.  Mastery of grammar is important, but largely encompassed under (1), especially the rapid recall. (5) is not testable. In most categories, it is worth mentioning that it is probably only possible to test a reasonable range likely extending into the 99th percentile but not much beyond, meaning that there is no obvious way to differentiate the merely intelligent from the “genius” – though of course the true genius will tend to neglected since he does not stay inside the logical systems that other less intelligent people tend to. Moreover, he is especially likely to rely on a type of insight that is incomprehensible to others. 
+
+Since the lead-in quotation was focused especially on skills for corporations and suggests that universities are not particularly good at training people for careers and could largely be dispensed with if there were adequate alternatives. I largely agree. One particular problem is the speed of movement with respect to the corporate world in comparison with the academic one, which appears positively glacial in comparison. As far as I can tell, this problem exists across all fields. A second problem is the negative side effects that can happen in academia, which include training on how to attain benefits via affirmative action or other types of whining, social networking not related to value creation, some degree of short-term self-gratification and thrill-seeking (which, when it reaches a pattern is certainly inimical to thoughtfulness), etc.
+
+In other words, at best one trains a bunch of analysts and middle-managers. At worst, one trains a band of thrill seekers who will wander off to Wall St. in search of quick fixes. In other words, there is very little understanding of product creation among the managing elite and an increasing ratio of marketing to product – even in supposedly “hard” fields like economics. This is a broad problem at the level of the broader culture. We become what we value and if what we value is simply excitement and Wall St. Kool Aid, this will be what dominates us. Curiously, we have an elite, but not an elite culture (where culture consists of anything other than credentials). 
+
+Of course, there is the sense in which a democracy is most prone towards a sort of devolution which puts faith in a demagogue(s) for salvation, and another in which it is the most powerful and dynamic social system since people are empowered to save themselves (and their country) by working hard with relatively minimal barriers and stratification. In any case where there are pockets of complexity, you will necessarily have an elite of sorts that understand the complexity. Although the elite can create barriers to entry (including the denial that they are actually an elite, or primarily admitting people on hereditary or ideological grounds), the American necessity is a purer meritocracy based a bit on smarts and a lot on grueling hard work – not stratification and protectionism, which is slowly suffocating the American dream and driving away the hard-working immigrants who have traditionally fueled American growth. This is why I am short on America in the near term (5-15 years) and long in the mid to long term (20 – 30 years), with some nasty transitional spots in-between. 
+
+Of course, the basis of an meritocratic elite must be education, but an education that is more than credentialing by elite colleges (sadly David Brooks, despite his presumably meritocratic focus missed this in talking about all the smarts gathered by the Obama administration, e.g. http://www.nytimes.com/2007/12/04/opinion/04brooks.html) but that delves deeper into the nature of human intellection, well-being, and, ultimately, production. This does not always mean more, but better, something often missed in debt repackaging schemes.  So also Paul Graham has said “someone trying to live well would seem eccentrically abstemious in most of the US” (http://paulgraham.com/addiction.html), since well presumably does not mean simply a collection of the latest cheap trinkets but an environment that includes the mental space to produce something of value. 
+
+In general, America faces a “regression to the mean,” the eradication of the super-intelligent in favor of a bunch of a meritocracy of the mediocre, those who score well on standardized tests, and little beyond this. Even those who qualify as super-achievers to take part in our meritocracy increasingly imported instead of educated domestically, a problem insofar as many of them sense that their own children may not be able to adequately be educated domestically and may return to their home countries when this is viable – a situation exacerbated by the ridiculous visa issues they have to deal with to enter and stay in this country.  
+
+The only long-term solution is better education. This requires all of recognition of deficiencies, a rededication to meritocracy based on hard work and intelligence, leveraging and introducing new technologies, and investment of large quantities of resources. The educational institutions that currently exist have little motivation to innovate, given that the current structure of society, especially the primacy of the financial elite and the heaps of money that they have made swapping money around, benefits them considerably. Religious and public institutions have also failed to innovate, with fairly clear and reliable supply lines of new students and resources. 
+
+Somewhat regrettably, we may have to look to the private sector, a place where there is considerably more freedom to innovate although risks of being diverted in the accumulation of wealth instead of facilitating education. The success of the Ivy-League class institutions in the United States is the close link between financially successful graduates and the future direction of the institution, something that could be enhanced by an education which places more stress on higher aspects of intelligence and training people to be successful in entrepreneurship (specifically in software), something that is largely neglected at many institutions.  
+
+The elite of the 21st century will invariably be technocratic to some extent. However, it should also have an acknowledge meritocratic culture which extends beyond simple competency in company creation and math, and encompassing the musical and visual arts in serious fashion, and facilitating their maintained and development.  Among other things, this requires a stricter regime and discipline than is currently maintained in any elite institution in the United States, potentially also some degree segregation on the basis of sex as was the case in previous institutions. One possible positive result is the increase in competition at the school of a collective nature, extending to non-trivial computational tasks.  
+
+Again, the Internet can be leveraged to this end. As various new sites have shown (most notably the Khan Academy), quality education can be brought at very low cost to a very wide audience. However, a social element is necessary for the creation of a culture that encourages attainment at the highest level. Mere provision of content is not enough. This requires both teachers, the teaching of skills, greater flexibility, and employers that are willing to take people on the basis of innovative credentials distinct from traditional degrees. 
+
+This would ideally exist as a layer on top of current educational institution for many, although it might be exclusive or primary for a few extraordinarily self-motivated, people that, because of likely polymathic tendencies, will serve as the bedrock of this new elitist culture – again defined simply by intelligence and accomplishment. 
+
+How this would influence the political system of the United States cannot be directly anticipated, as the intelligent elite will presumably and ideally innovate in every area,  creating new technology and banding together to introduce technology into every part of society, finally facilitating Jefferson’s dream of periodic revolution – using innovation to continually re-establish the Democratic Republic in accordance with its founding principle of government for the people by the people. 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

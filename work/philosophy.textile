@@ -1,0 +1,3 @@
+My philosophy of computer languages is somewhat complex. This is the simple version. There are languages which are good for specific tasks, generally related to the degree to which they mirror the problem domain, both in the sense of language design and associated libraries.
+
+The domain 

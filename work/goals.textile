@@ -1,0 +1,7 @@
+Things I'd like to work on at the moment:
+
+  (1) Comprehensive test frameworks for composite apps (esp. from javascript on down)
+  (2) Package management systems for the enterprise (specifically Salesforce)
+  (3) Enhanced UI within "heavy" enterprise apps 
+  (4) Nomic games
+

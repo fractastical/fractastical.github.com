@@ -1,0 +1,28 @@
+*If you want me to work for you, you should be:*
+
+	(1) Reasonably smart 
+	(2) Know what you want
+	(3) Be able to expose me to a minimum of institutional bullshit
+	
+*Here is how I work:*
+
+	(1) We talk and I put together an SOW. This maybe free depending on scope.
+	(2) Tickets are fed into a ticket management system (I prefer Assembla)
+	(3) Source code is managed in a repository of choice (I prefer git)
+	(4) Deadlines are set, project commences
+	(5) You can view projects in ticket management system
+	(6) I bill you at the end of the project	
+
+*Rates*
+
+	x = hourly or day rate in currency of choice.
+
+	(1) Short project rate ( < 1 week ) = x * 1.5
+	(2) Normal rate = x 
+	(3) Non-profit multiplier = x * .70 (not always available)
+	(4) Interesting project multiplier = x * .50 (see "goals":goals.textile)
+
+Email me at joel@titania dot com for "x"
+
+Generally I complete things much faster and better than other people. For more information on what I can do, see "what I can do for you.":what_I_can_do_for_you.textile 
+

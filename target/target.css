@@ -1,0 +1,130 @@
+﻿@font-face {
+	font-family: 'Calibri_TrueType_0';
+	src: local('Calibri_TrueType_0');
+	src: url('Calibri_TrueType_0.ttf') format('truetype');
+}
+
+.fmt-0{font-style:normal;font-weight:normal;font-family:Calibri_TrueType_0,Calibri,serif;color:#000000;font-size:11.04pt;}
+
+@font-face {
+	font-family: 'Cambria_Type0_1';
+	src: local('Cambria_Type0_1');
+	src: url('Cambria_Type0_1.otf') format('opentype');
+}
+
+.fmt-1{font-style:normal;font-weight:normal;font-family:Cambria_Type0_1,Cambria,serif;color:#16365d;font-size:26.04pt;}
+
+@font-face {
+	font-family: 'Cambria_TrueType_2';
+	src: local('Cambria_TrueType_2');
+	src: url('Cambria_TrueType_2.ttf') format('truetype');
+}
+
+.fmt-2{font-style:normal;font-weight:normal;font-family:Cambria_TrueType_2,Cambria,serif;color:#16365d;font-size:26.04pt;}
+
+@font-face {
+	font-family: 'Cambria_TrueType_3';
+	src: local('Cambria_TrueType_3');
+	src: url('Cambria_TrueType_3.ttf') format('truetype');
+}
+
+.fmt-3{font-style:italic;font-weight:normal;font-family:Cambria_TrueType_3,Cambria,serif;color:#4f81bc;font-size:12pt;}
+
+@font-face {
+	font-family: 'Calibri_TrueType_4';
+	src: local('Calibri_TrueType_4');
+	src: url('Calibri_TrueType_4.ttf') format('truetype');
+}
+
+.fmt-4{font-style:normal;font-weight:bold;font-family:Calibri_TrueType_4,Calibri,serif;color:#000000;font-size:15.96pt;}
+
+.fmt-5{font-style:normal;font-weight:bold;font-family:Calibri_TrueType_4,Calibri,serif;color:#000000;font-size:10.56pt;}
+
+@font-face {
+	font-family: 'Cambria_TrueType_5';
+	src: local('Cambria_TrueType_5');
+	src: url('Cambria_TrueType_5.ttf') format('truetype');
+}
+
+.fmt-6{font-style:normal;font-weight:bold;font-family:Cambria_TrueType_5,Cambria,serif;color:#4f81bc;font-size:12.96pt;}
+
+@font-face {
+	font-family: 'Calibri_Type0_6';
+	src: local('Calibri_Type0_6');
+	src: url('Calibri_Type0_6.otf') format('opentype');
+}
+
+.fmt-7{font-style:normal;font-weight:normal;font-family:Calibri_Type0_6,Calibri,serif;color:#000000;font-size:11.04pt;}
+
+@font-face {
+	font-family: 'Times_New_Roman_Type0_7';
+	src: local('Times_New_Roman_Type0_7');
+	src: url('Times_New_Roman_Type0_7.otf') format('opentype');
+}
+
+.fmt-8{font-style:normal;font-weight:normal;font-family:Times_New_Roman_Type0_7,Times New Roman,serif;color:#000000;font-size:12pt;}
+
+@font-face {
+	font-family: 'Times_New_Roman_Type0_8';
+	src: local('Times_New_Roman_Type0_8');
+	src: url('Times_New_Roman_Type0_8.otf') format('opentype');
+}
+
+.fmt-9{font-style:normal;font-weight:normal;font-family:Times_New_Roman_Type0_8,Times New Roman,serif;color:#000000;font-size:12pt;}
+
+@font-face {
+	font-family: 'Times_New_Roman_Type0_9';
+	src: local('Times_New_Roman_Type0_9');
+	src: url('Times_New_Roman_Type0_9.otf') format('opentype');
+}
+
+.fmt-10{font-style:normal;font-weight:normal;font-family:Times_New_Roman_Type0_9,Times New Roman,serif;color:#000000;font-size:12pt;}
+
+@font-face {
+	font-family: 'Times_New_Roman_Type0_10';
+	src: local('Times_New_Roman_Type0_10');
+	src: url('Times_New_Roman_Type0_10.otf') format('opentype');
+}
+
+.fmt-11{font-style:normal;font-weight:normal;font-family:Times_New_Roman_Type0_10,Times New Roman,serif;color:#000000;font-size:12pt;}
+
+.fmt-12{font-style:normal;font-weight:bold;font-family:Cambria_TrueType_5,Cambria,serif;color:#365f91;font-size:14.04pt;}
+
+.fmt-13{font-style:normal;font-weight:bold;font-family:Cambria_TrueType_5,Cambria,serif;color:#4f81bc;font-size:12.96pt;}
+
+.fmt-14{font-style:normal;font-weight:normal;font-family:Calibri_TrueType_0,Calibri,serif;color:#000000;font-size:6.96pt;}
+
+.fmt-15{font-style:normal;font-weight:normal;font-family:Calibri_TrueType_0,Calibri,serif;color:#000000;font-size:11.04pt;}
+
+.fmt-16{font-style:normal;font-weight:normal;font-family:Calibri_TrueType_0,Calibri,serif;color:#000000;font-size:6.48pt;}
+
+.fmt-17{font-style:normal;font-weight:normal;font-family:Calibri_TrueType_0,Calibri,serif;color:#000000;font-size:9.96pt;}
+
+.fmt-18{font-style:normal;font-weight:normal;font-family:Calibri_TrueType_0,Calibri,serif;color:#0000ff;font-size:9.96pt;}
+
+.fmt-19{font-style:normal;font-weight:normal;font-family:Calibri_TrueType_0,Calibri,serif;color:#000000;font-size:6.48pt;}
+
+@font-face {
+	font-family: 'Calibri_TrueType_11';
+	src: local('Calibri_TrueType_11');
+	src: url('Calibri_TrueType_11.ttf') format('truetype');
+}
+
+.fmt-20{font-style:italic;font-weight:normal;font-family:Calibri_TrueType_11,Calibri,serif;color:#000000;font-size:9.96pt;}
+
+.fmt-21{font-style:normal;font-weight:normal;font-family:Calibri_Type0_6,Calibri,serif;color:#000000;font-size:9.96pt;}
+
+.fmt-22{font-style:normal;font-weight:normal;font-family:Calibri_TrueType_0,Calibri,serif;color:#000000;font-size:6.96pt;}
+
+.fmt-23{font-style:normal;font-weight:normal;font-family:Calibri_TrueType_0,Calibri,serif;color:#0000ff;font-size:11.04pt;}
+
+@font-face {
+	font-family: 'Cambria_Type0_12';
+	src: local('Cambria_Type0_12');
+	src: url('Cambria_Type0_12.otf') format('opentype');
+}
+
+.fmt-24{font-style:normal;font-weight:bold;font-family:Cambria_Type0_12,Cambria,serif;color:#4f81bc;font-size:12.96pt;}
+
+.fmt-25{font-style:italic;font-weight:normal;font-family:Calibri_TrueType_11,Calibri,serif;color:#000000;font-size:11.04pt;}
+
